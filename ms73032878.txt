@@ -1,0 +1,5 @@
+{
+  "Description": "Microsoft 365 網域擁有權的驗證檔案放置於網站根目錄",
+  "Domain": "feng5254.site",
+  "Id": "2be77fa6-7513-4011-85f1-6183438c7e90"
+}
